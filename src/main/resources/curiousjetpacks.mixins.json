@@ -8,7 +8,6 @@
     "ironjetpacks.JetpackItemMixin",
     "ironjetpacks.JetpackUtilsMixin",
     "ironjetpacks.PlayerEntityMixin",
-    "ironjetpacks.PlayerInventoryMixin",
     "ironjetpacks.DecrementThrottleMessageMixin",
     "ironjetpacks.IncrementThrottleMessageMixin",
     "ironjetpacks.ToggleEngineMessageMixin",
