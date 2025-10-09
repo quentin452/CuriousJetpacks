@@ -1,5 +1,5 @@
 # Description
-Just a continuation of Curious Jetpacks for minecraft 1.7.10
+Just a continuation of Curious Jetpacks for minecraft 1.16.5
 
 The original mod : [HERE](https://legacy.curseforge.com/minecraft/mc-mods/curious-jetpacks)
 
